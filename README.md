@@ -1,4 +1,4 @@
-## Hey, I'm Zack 👋
+## Hey, I'm Zack
 
 I'm transitioning from skilled trades into DevOps and cloud engineering, documenting the journey publicly.
 
